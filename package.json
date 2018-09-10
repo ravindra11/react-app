@@ -1,0 +1,20 @@
+{
+  "name": "mestry",
+  "description": "",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.3",
+    "nodeman": "^1.1.2",
+    "react": "16.1.1",
+    "react-dom": "16.1.1",
+    "react-scripts": "^1.1.5"
+  },
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
